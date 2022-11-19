@@ -1,0 +1,326 @@
+[
+  {
+    "name": "iPhone 14 Pro Max",
+    "imageUrl": "https://softliee.com/wp-content/uploads/2022/05/Apple-iPhone-14-Pro.jpg",
+    "price": 2500,
+    "category": "Apple"
+  },
+  {
+    "name": "iPhone 14 Pro",
+    "imageUrl": "https://www.pakmobizone.pk/wp-content/uploads/2022/10/Apple-iPhone-14-Pro-Deep-Purple-1.jpg",
+    "price": 2300,
+    "category": "Apple"
+  },
+  {
+    "name": "iPhone 14 Plus",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-plus-3.jpg",
+    "price": 2100,
+    "category": "Apple"
+  },
+  {
+    "name": "iPhone 14",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-3.jpg",
+    "price": 1900,
+    "category": "Apple"
+  },
+  {
+    "name": "iPhone 13 Pro Max",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-01.jpg",
+    "price": 1800,
+    "category": "Apple"
+  },
+  {
+    "name": "iPhone 13 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-01.jpg",
+    "price": 1600,
+    "category": "Apple"
+  },
+  {
+    "name": "iPhone 13",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-01.jpg",
+    "price": 1400,
+    "category": "Apple"
+  },
+  {
+    "name": "iPhone 12 Pro Max",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-pro-max-1.jpg",
+    "price": 1300,
+    "category": "Apple"
+  },
+  {
+    "name": "iPhone 12 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-pro-r1.jpg",
+    "price": 1100,
+    "category": "Apple"
+  },
+  {
+    "name": "Huawei Mate 50 RS Porsche Design",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-mate-50-rs-porsche-design-1.jpg",
+    "price": 1900,
+    "category": "Huawei"
+  },
+  {
+    "name": "Huawei Mate 50 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-mate-50-pro-1.jpg",
+    "price": 1300,
+    "category": "Huawei"
+  },
+  {
+    "name": "Huawei Mate 50E",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-mate-50e-1.jpg",
+    "price": 600,
+    "category": "Huawei"
+  },
+  {
+    "name": "Huawei Mate 50",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-mate-50-1.jpg",
+    "price": 700,
+    "category": "Huawei"
+  },
+  {
+    "name": "Huawei nova 10 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-nova-10-pro-1.jpg",
+    "price": 700,
+    "category": "Huawei"
+  },
+  {
+    "name": "Huawei nova 10",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-nova-10-1.jpg",
+    "price": 500,
+    "category": "Huawei"
+  },
+  {
+    "name": "Huawei nova 10 SE",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-nova10-se-1.jpg",
+    "price": 400,
+    "category": "Huawei"
+  },
+  {
+    "name": "Huawei nova 10z",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/huawei/huavei-nova-10z-1.jpg",
+    "price": 250,
+    "category": "Huawei"
+  },
+  {
+    "name": "Huawei nova Y90",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/huawei/huawei-nova-y90-1.jpg",
+    "price": 180,
+    "category": "Huawei"
+  },
+  {
+    "name": "Nokia X30",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-x30-5g-1.jpg",
+    "price": 500,
+    "category": "Nokia"
+  },
+  {
+    "name": "Nokia G60",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-g60-5g-1.jpg",
+    "price": 400,
+    "category": "Nokia"
+  },
+  {
+    "name": "Nokia C31",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c31-1.jpg",
+    "price": 150,
+    "category": "Nokia"
+  },
+  {
+    "name": "Nokia G400",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-g400-5g-1.jpg",
+    "price": 250,
+    "category": "Nokia"
+  },
+  {
+    "name": "Nokia G11 Plus",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-g11-plus-1.jpg",
+    "price": 150,
+    "category": "Nokia"
+  },
+  {
+    "name": "Nokia C200",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c200-1.jpg",
+    "price": 70,
+    "category": "Nokia"
+  },
+  {
+    "name": "Nokia C21 Plus",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c21-plus-gray.jpg",
+    "price": 120,
+    "category": "Nokia"
+  },
+  {
+    "name": "Nokia C21",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-c21-gray.jpg",
+    "price": 100,
+    "category": "Nokia"
+  },
+  {
+    "name": "Nokia G11",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/nokia/nokia-g11-1.jpg",
+    "price": 250,
+    "category": "Nokia"
+  },
+  {
+    "name": "OnePlus 10T",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-10t-5g-1.jpg",
+    "price": 600,
+    "category": "Oneplus"
+  },
+  {
+    "name": "OnePlus Ace Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-10t-5g-2.jpg",
+    "price": 500,
+    "category": "Oneplus"
+  },
+  {
+    "name": "OnePlus 10R 150W",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-10r-1.jpg",
+    "price": 370,
+    "category": "Oneplus"
+  },
+  {
+    "name": "OnePlus 10 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-10-pro-1.jpg",
+    "price": 570,
+    "category": "Oneplus"
+  },
+  {
+    "name": "OnePlus 10R",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-10r-2.jpg",
+    "price": 350,
+    "category": "Oneplus"
+  },
+  {
+    "name": "OnePlus 9RT 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-9-rt-3.jpg",
+    "price": 380,
+    "category": "Oneplus"
+  },
+  {
+    "name": "OnePlus 9 Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-9-pro-1.jpg",
+    "price": 500,
+    "category": "Oneplus"
+  },
+  {
+    "name": "OnePlus 9",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-9-1.jpg",
+    "price": 350,
+    "category": "Oneplus"
+  },
+  {
+    "name": "OnePlus 9R",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-9r-2.jpg",
+    "price": 300,
+    "category": "Oneplus"
+  },
+  {
+    "name": "Samsung Galaxy S22 Ultra 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s22-ultra-5g-2.jpg",
+    "price": 750,
+    "category": "Samsung"
+  },
+  {
+    "name": "Samsung Galaxy S22+ 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s22-plus-5g-2.jpg",
+    "price": 550,
+    "category": "Samsung"
+  },
+  {
+    "name": "Samsung Galaxy S22 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s22-5g-2.jpg",
+    "price": 379,
+    "category": "Samsung"
+  },
+  {
+    "name": "Samsung Galaxy A73 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a73-5g-1.jpg",
+    "price": 428,
+    "category": "Samsung"
+  },
+  {
+    "name": "Samsung Galaxy A53 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a53-5g-1.jpg",
+    "price": 330,
+    "category": "Samsung"
+  },
+  {
+    "name": "Samsung Galaxy A33 5G",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a33-5g-1.jpg",
+    "price": 260,
+    "category": "Samsung"
+  },
+  {
+    "name": "Samsung Galaxy A23",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a23-1.jpg",
+    "price": 180,
+    "category": "Samsung"
+  },
+  {
+    "name": "Samsung Galaxy A13",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a13-1.jpg",
+    "price": 150,
+    "category": "Samsung"
+  },
+  {
+    "name": "Samsung Galaxy A03",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a03-1.jpg",
+    "price": 110,
+    "category": "Samsung"
+  },
+  {
+    "name": "Sony Xperia 5 IV",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-5-iv-ecru-white.jpg",
+    "price": 800,
+    "category": "Sony"
+  },
+  {
+    "name": "Sony Xperia 1 IV",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-1-iv-1.jpg",
+    "price": 820,
+    "category": "Sony"
+  },
+  {
+    "name": "Sony Xperia 10 IV",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-10-iv-1.jpg",
+    "price": 350,
+    "category": "Sony"
+  },
+  {
+    "name": "Sony Xperia Pro-I",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-pro-i-1.jpg",
+    "price": 950,
+    "category": "Sony"
+  },
+  {
+    "name": "Sony Xperia 10 III Lite",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-10-iii-lite-00.jpg",
+    "price": 350,
+    "category": "Sony"
+  },
+  {
+    "name": "Sony Xperia Pro",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-pro-5g-0.jpg",
+    "price": 300,
+    "category": "Sony"
+  },
+  {
+    "name": "Sony Xperia 5 III",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-5-iii-02.jpg",
+    "price": 600,
+    "category": "Sony"
+  },
+  {
+    "name": "Sony Xperia 1 III",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-1-iii-02.jpg",
+    "price": 600,
+    "category": "Sony"
+  },
+  {
+    "name": "Sony Xperia L4",
+    "imageUrl": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-l4-1.jpg",
+    "price": 200,
+    "category": "Sony"
+  }
+]
