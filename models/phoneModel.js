@@ -9,8 +9,11 @@ const phoneSchema = new mongoose.Schema(
       required: [true, "A Phone must have a name"],
       unique: true,
       trim: true,
-      maxlength: [60, "A tour name must have less or equal then 40 characters"],
-      minlength: [6, "A tour name must have more or equal then 10 characters"],
+      maxlength: [
+        60,
+        "A phone name must have less or equal then 40 characters",
+      ],
+      minlength: [6, "A phone name must have more or equal then 10 characters"],
       // validate: [validator.isAlpha, 'Tour name must only contain characters']
     },
 

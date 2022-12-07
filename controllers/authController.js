@@ -20,7 +20,8 @@ const createSendToken = (user, statusCode, res) => {
     ),
     httpOnly: true,
   };
-  if (process.env.NODE_ENV === "production") cookieOptions.secure = true;
+  // if (process.env.NODE_ENV === "production")
+  cookieOptions.secure = true;
 
   res.cookie("jwt", token, cookieOptions);
 
@@ -93,6 +94,9 @@ exports.protect = catchAsync(async (req, res, next) => {
         401
       )
     );
+  }
+  if (currentUser.role !== "admin") {
+    return next(new AppError("Only admin can do this action", 403));
   }
 
   // 4) Check if user changed password after the token was issued
