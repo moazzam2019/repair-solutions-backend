@@ -7,12 +7,24 @@ const router = express.Router();
 router
   .route("/")
   .get(phoneController.getAllPhones)
-  .post(authController.protect, phoneController.createPhone);
+  .post(
+    authController.protect,
+    authController.restrictTo("admin"),
+    phoneController.createPhone
+  );
 
 router
   .route("/:id")
   .get(phoneController.getPhone)
-  .patch(authController.protect, phoneController.updatePhone)
-  .delete(authController.protect, phoneController.deletePhone);
+  .patch(
+    authController.protect,
+    authController.restrictTo("admin"),
+    phoneController.updatePhone
+  )
+  .delete(
+    authController.protect,
+    authController.restrictTo("admin"),
+    phoneController.deletePhone
+  );
 
 module.exports = router;
