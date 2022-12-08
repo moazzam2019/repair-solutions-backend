@@ -1,5 +1,5 @@
 const Phone = require("../models/phoneModel");
-const APIFeatures = require("../utils/apiFeatures");
+// const APIFeatures = require("../utils/apiFeatures");
 
 exports.getAllPhones = async (req, res) => {
   try {

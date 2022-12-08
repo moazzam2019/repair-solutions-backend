@@ -110,7 +110,7 @@ exports.protect = catchAsync(async (req, res, next) => {
 
 exports.restrictTo = (...roles) => {
   return (req, res, next) => {
-    // roles ['admin', 'lead-guide']. role='user'
+    // roles ['admin', 'user']. role='user'
     console.log(req.user.role);
     if (!roles.includes(req.user.role)) {
       return next(new AppError("Only admin can do this action!", 403));
